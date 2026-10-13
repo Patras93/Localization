@@ -100,6 +100,7 @@ ACCESSIBILITY_GAMEPLAY_OPPONENT_TURN	Ход противника
 ACCESSIBILITY_GAMEPLAY_TURN_ENDED	Ход завершен	
 ACCESSIBILITY_GAMEPLAY_CHOICES_HIDDEN	Варианты скрыты	
 ACCESSIBILITY_GAMEPLAY_QUERY_REWIND	Перемотать?	
+ACCESSIBILITY_GAMEPLAY_QUERY_ASSEMBLE	Сборка существа {0}	0=name of the minion being assembled, e.g. Assembling {Murloc Tidehunter}
 ACCESSIBILITY_GAMEPLAY_CARD_IN_ZONE_TRIGGERED	{0} срабатывает	0=full card name in zone e.g. {Your second Murloc Raider} triggered
 ACCESSIBILITY_GAMEPLAY_PLAYER_CARD_TRIGGERED	{0} срабатывает	0=card name e.g. Your {Psyfiend} triggered
 ACCESSIBILITY_GAMEPLAY_OPPONENT_CARD_TRIGGERED	{0} противника срабатывает	0=card name e.g. Your opponent's {Psyfiend} triggered
@@ -386,6 +387,9 @@ ACCESSIBILITY_GAMEPLAY_SUMMON_MINION_HELP	Нажмите {0}, чтобы при�
 ACCESSIBILITY_GAMEPLAY_CHOICE_MODE_HELP	Используйте клавиши со стрелками для выбора опций. Нажмите {0} для подтверждения	0=Enter key
 ACCESSIBILITY_GAMEPLAY_HIDDEN_CHOICE_HELP	Используйте клавиши областей для изучения состояния стола. Нажмите {0}, чтобы вернуться к выбору	0=tab key
 ACCESSIBILITY_GAMEPLAY_REWIND_MODE_HELP	Используйте клавиши областей для изучения состояния стола. Нажмите {0}, чтобы перемотать ход, или {1}, чтобы оставить текущее состояние.	0=U key 1=J key
+ACCESSIBILITY_GAMEPLAY_ASSEMBLE_PARTS_HELP	Нажмите точку с запятой, чтобы просмотреть собираемое существо. Используйте клавиши со стрелками для просмотра карт, текст которых можно добавить к собираемому существу. Нажмите левую квадратную скобку, чтобы добавить первую строку с текущей карты к собираемому существу, или правую квадратную скобку, чтобы добавить вторую строку с неё.	
+ACCESSIBILITY_GAMEPLAY_ASSEMBLE_TARGET_HELP	Используйте стрелки вверх и вниз для просмотра собираемого существа. Нажмите {0}, чтобы вернуться к компонентам для сборки.	0=backspace key
+ACCESSIBILITY_GAMEPLAY_ASSEMBLE_CONFIRM_HELP	Если вы подобрали нужные компоненты, Нажмите {0}, чтобы создать существо.	=0enter key
 ACCESSIBILITY_GAMEPLAY_REROLL_CHOICE_HELP	Нажмите {0}, чтобы заменить варианты	0=R key
 ACCESSIBILITY_GAMEPLAY_CHOOSE_TARGET_HELP	Используйте {0} или клавиши областей для перехода к целям. Нажмите {1}, чтобы выбрать цель, или {2}, для отмены	0=Tab key 1=Enter key 2=Backspace key
 ACCESSIBILITY_GAMEPLAY_ATTACK_WITH_MINION_HELP	Нажмите {0}, чтобы атаковать этим существом	0=Enter key
